@@ -17,9 +17,6 @@ Language users and Spoken Language users
 * Sign language translation can also help the 0.6 million deaf individuals who require
 mental treatment every year (Ref 5)
 
-https://user-images.githubusercontent.com/90999624/149116872-f8351646-8405-4b94-a720-b631fd14d60c.mp4
-
-
 # Data Source: Obtained from Kaggle using Leap Motion Sensors(Ref 4) 
 
 Dataset captures hand gestures images and converts them to various dimensions
