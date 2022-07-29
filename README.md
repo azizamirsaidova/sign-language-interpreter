@@ -17,7 +17,9 @@ Language users and Spoken Language users
 * Sign language translation can also help the 0.6 million deaf individuals who require
 mental treatment every year (Ref 5)
 
-# Data Source: Obtained from Kaggle using Leap Motion Sensors(Ref 4) 
+# Data Source: 
+
+Obtained from Kaggle using Leap Motion Sensors(Ref 4) 
 
 Dataset captures hand gestures images and converts them to various dimensions
 The following shows the basic dimensions of the data
@@ -36,10 +38,6 @@ The following shows the basic dimensions of the data
 Proximal start, etc.
 
 There are 428 dimensions in total in the dataset. 
-
-
-[MSAI349 - ASL Translation.pptx]
-
 
 # References:
 1. https://en.wikipedia.org/wiki/Languages_of_the_United_States
